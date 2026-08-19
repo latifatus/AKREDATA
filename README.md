@@ -89,13 +89,15 @@ npm run dev
 
 ## Pengembangan
 
-**Nama:** Latifatus Zahro  
-**NIM:** 230170107  
-**Kegiatan:** Kerja Praktik  
-**Program Studi:** Teknik Informatika  
-**Fakultas:** Teknik  
-**Universitas:** Universitas Malikussaleh  
-**Tahun:** 2026
+| Informasi | Keterangan |
+|:---|:---|
+| **Nama** | Latifatus Zahro |
+| **NIM** | 230170107 |
+| **Kegiatan** | Kerja Praktik |
+| **Program Studi** | Teknik Informatika |
+| **Fakultas** | Teknik |
+| **Universitas** | Universitas Malikussaleh |
+| **Tahun** | 2026 |
 
 ---
 
