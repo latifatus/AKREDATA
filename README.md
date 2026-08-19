@@ -35,13 +35,13 @@ Sistem ini dikembangkan dalam rangka pelaksanaan Kerja Praktik (KP). Sebelum ada
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/latifatus/SISTEM-AKREDATA---KP.git
+git clone https://github.com/latifatus/AKREDATA.git
 ```
 
 ### 2. Masuk ke Direktori Project
 
 ```bash
-cd SISTEM-AKREDATA---KP
+cd AKREDATA
 ```
 
 ### 3. Install Dependency
