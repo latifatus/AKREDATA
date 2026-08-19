@@ -2,9 +2,11 @@
 
 ## Tentang Sistem
 
-AKREDATA merupakan sistem informasi berbasis web yang dikembangkan sebagai alternatif dalam pengelolaan data pendukung akreditasi pada Program Studi Teknik Informatika, Universitas Malikussaleh.
+AKREDATA merupakan sistem informasi berbasis web yang dikembangkan sebagai media pendukung dalam pengelolaan data pendukung akreditasi pada Program Studi Teknik Informatika, Universitas Malikussaleh.
 
-Sistem ini dikembangkan dalam rangka pelaksanaan Kerja Praktik (KP). Sebelum adanya sistem ini, pengelolaan data pendukung akreditasi masih dilakukan menggunakan Google Spreadsheet. AKREDATA dikembangkan untuk membantu proses pengelolaan, penyimpanan, dan pencarian data secara lebih terstruktur dan terpusat.
+Sistem ini dikembangkan dalam rangka pelaksanaan Kerja Praktik (KP). Sebelum adanya AKREDATA, pengelolaan data pendukung akreditasi dilakukan menggunakan Google Spreadsheet. AKREDATA dikembangkan sebagai alternatif untuk membantu proses pengelolaan, penyimpanan, pencarian, dan rekapitulasi data secara lebih terstruktur dan terpusat.
+
+AKREDATA tidak dimaksudkan untuk menggantikan sistem informasi akademik maupun sistem lain yang telah digunakan oleh Program Studi Teknik Informatika Universitas Malikussaleh. Sistem ini berfungsi sebagai media pendukung yang membantu pengarsipan dan pengelolaan data pendukung akreditasi, sehingga proses pencarian, pembaruan, dan rekapitulasi data dapat dilakukan dengan lebih mudah dan efisien.
 
 ## Fitur Utama
 
